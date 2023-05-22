@@ -17,7 +17,7 @@ Partie 3 : Data Sciece et NLP
   - Classification de text 
 
 
-Partie 4 : Data visualisation et data Analysis 
+Partie 4 : Data visualisation et story telling 
    - Visualisation des données avec Python
    - Streamlit 
 
