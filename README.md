@@ -11,7 +11,7 @@ Partie 2 : Data Analysis et feature engineering
   - Extraction des features
 
 
-Partie 3 : Data Sciece et NLP 
+Partie 3 : Data Science et NLP 
   - Preprocessing 
   - Sentiment analysis en calculant sentiment score et compound score
   - Classification de text 
